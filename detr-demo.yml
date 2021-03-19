@@ -1,0 +1,13 @@
+name: detr-demo
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - jupyterlab=0.34.9
+  - matplotlib
+  - python=3.6.6
+  - pytorch
+  - requests
+prefix: /anaconda3/envs/detr-demo
